@@ -39,6 +39,22 @@
       "expire_days": 30,
       "max_items": 5,
       "delay": 15
+    },
+    {
+      "type": "ASSA",
+      "application_id": "",
+      "page_id": "",
+      "expire_days": 30,
+      "max_items": 5,
+      "delay": 15
+    },
+    {
+      "type": "CALENDAR",
+      "application_id": "",
+      "page_id": "",
+      "expire_days": 30,
+      "max_items": 5,
+      "delay": 15
     }
   ],
   "ads": {
