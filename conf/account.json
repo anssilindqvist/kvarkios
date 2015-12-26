@@ -1,0 +1,48 @@
+{
+  "delay": 10,
+  "logo": "http://logo.com",
+  "channels": [
+    {
+      "type": "RSS",
+      "url": "http://xml.com",
+      "expire_days": 30,
+      "max_items": 5,
+      "delay": 15
+    },
+    {
+      "type": "FB",
+      "application_id": "",
+      "page_id": "",
+      "expire_days": 30,
+      "max_items": 5,
+      "delay": 15
+    },
+    {
+      "type": "TWITTER",
+      "id": "",
+      "expire_days": 30,
+      "max_items": 5,
+      "delay": 15
+    },
+    {
+      "type": "INSTAGRAM",
+      "application_id": "",
+      "page_id": "",
+      "expire_days": 30,
+      "max_items": 5,
+      "delay": 15
+    },
+    {
+      "type": "YOUTUBE",
+      "application_id": "",
+      "page_id": "",
+      "expire_days": 30,
+      "max_items": 5,
+      "delay": 15
+    }
+  ],
+  "ads": {
+    "application_id": "",
+    "page_id": ""
+  }
+}
